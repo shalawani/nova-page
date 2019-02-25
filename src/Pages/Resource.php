@@ -22,7 +22,7 @@ class Resource extends BaseResource
      *
      * @var string
      */
-    public static $model;
+    public static $model = '';
 
     /**
      * Indicates if the resoruce should be globally searchable.
